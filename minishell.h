@@ -24,5 +24,6 @@
 
 char	*promt(void);
 int		pwd(void);
+int		echo(int argc, char **argv);
 
 #endif
