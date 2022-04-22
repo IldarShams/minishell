@@ -1,7 +1,7 @@
 NAME = minishel
 LIBFT = libft.a
 GNL = get_next_line*bonus.o
-SRCS = 	test.c
+SRCS = 	test.c pwd.c
 LIB_PATH = ./Libft
 HEADER = minishell.h
 OBJ =   $(SRCS:%.c=%.o)

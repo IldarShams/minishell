@@ -23,5 +23,6 @@
 # include "./Libft/libft.h"
 
 char	*promt(void);
+int		pwd(void);
 
 #endif
